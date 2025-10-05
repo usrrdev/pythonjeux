@@ -1,7 +1,7 @@
 from colorama import Fore
 import random
 
-x = random.randit(1, 100)
+x = random.ramdit(1, 100)
 
 while True:
     number = input("Entrer un nombre (1 - 100) : ")
